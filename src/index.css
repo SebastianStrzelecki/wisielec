@@ -20,6 +20,8 @@ code {
   background-color: #a40c2b;;
   text-transform: uppercase;
   margin:1px;
+  font-weight: 700;
+  font-size: 25px;
 }
 .key:hover,.key:focus{
   background-color: #ff1947;

@@ -1,5 +1,8 @@
 {
-    "easy": ["kot", "pies", "fra", "zabawa"],
-    "medium": ["KOT", "PIES", "GRA", "ZABAWA"],
-    "hard": ["KOT", "PIES", "GRA", "ZABAWA"]
+
+    "easy": ["dog","cat","zebra","ape","bat","bear","chicken","deer","duck","fish","pig","rabbit"],
+    "medium":["Penguin","Pig","Sheep","albatross","alligator","ant","antelope","crab","worm"],
+    "hard":["Barracuda","Dragonfly","Grasshopper","aardvark","alpaca","anteater", "water buffalo"]
+
+        
 }

@@ -25,7 +25,7 @@ const Keyboard = (props) => (
         <input className="key" type="button" onClick = {props.onClickkeys} disabled={props.isDisabled} value="w"/>
         <input className="key" type="button" onClick = {props.onClickkeys} disabled={props.isDisabled} value="y"/>
         <input className="key" type="button" onClick = {props.onClickkeys} disabled={props.isDisabled} value="z"/>
-      
+        <input className="key" style={{width:'270px', visibility:props.isDisabledButton ? "visible": "hidden"}} type="button" onClick = {()=>(window.location.reload())} value="New Game" />
         
     </div>
 );
